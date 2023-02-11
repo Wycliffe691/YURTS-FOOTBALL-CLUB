@@ -158,7 +158,7 @@ ul li{
             text-decoration: none;
         }
         .fa-bars {
-            display: block;
+            display: none;
             cursor: pointer;
             font-size: 2rem;
             padding: 6px;

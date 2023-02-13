@@ -65,9 +65,9 @@ ul li{
     width: 100%;
 }
 
-.fa-solid {
+/* .fa-solid {
     display:none;
-    }
+    } */
 /* navbar response */
 /* For mobile devices */
 @media only screen and (max-width: 480px) {

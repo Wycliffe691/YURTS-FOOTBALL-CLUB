@@ -65,8 +65,8 @@ ul li{
     width: 100%;
 }
 
-/* .nav-bar i{
-    display:none; */
+.nav-bar i{
+    display:none; 
 /* navbar response */
 /* For mobile devices */
 @media only screen and (max-width: 480px) {
